@@ -23,6 +23,9 @@ module.exports = {
             },
             fontFamily: {
                 Gilroy: ["Gilroy"],
+                heading: ['BentonModDisp','serif'],
+                slider: ['Arsenal','sans-serif'],
+                body: ['Karla','sans-serif'],
             },
             fontSize: {
                 responsive: "clamp(1rem, 2vw + 1.3rem, 4rem)",
