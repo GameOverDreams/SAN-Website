@@ -22,7 +22,7 @@ module.exports = {
                 dark: "#0f172a",
             },
             fontFamily: {
-                Gilroy: ["Gilroy"],
+                //Gilroy: ["Gilroy"],
                 heading: ['BentonModDisp','serif'],
                 slider: ['Arsenal','sans-serif'],
                 body: ['Karla','sans-serif'],
