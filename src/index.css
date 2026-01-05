@@ -1,1 +1,15 @@
 @import "tailwindcss";
+@font-face {
+  font-family: 'BentonModDisp';
+  src: url('/fonts/BentonModDisp.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Arsenal';
+  src: url('/fonts/Arsenal-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Karla';
+  src: url('/fonts/Karla-Regular.woff2') format('woff2');
+}
